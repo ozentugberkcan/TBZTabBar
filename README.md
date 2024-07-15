@@ -1,6 +1,6 @@
 # TBZTabBar
 
-![ScreenShot]([https://raw.githubusercontent.com/ozentugberkcan/TBZTabBar/main/preview.png](https://raw.githubusercontent.com/ozentugberkcan/TBZTabBar/main/Ekran%20Resmi%202024-07-15%2020.44.09.png))
+![TBZTabBar Preview](https://raw.githubusercontent.com/ozentugberkcan/TBZTabBar/main/Ekran%20Resmi%202024-07-15%2020.44.09.png)
 
 A customizable TabBar for SwiftUI projects.
 
