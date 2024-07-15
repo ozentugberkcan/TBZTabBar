@@ -1,5 +1,7 @@
 # TBZTabBar
 
+![ScreenShot]([https://raw.githubusercontent.com/ozentugberkcan/TBZTabBar/main/preview.png](https://raw.githubusercontent.com/ozentugberkcan/TBZTabBar/main/Ekran%20Resmi%202024-07-15%2020.44.09.png))
+
 A customizable TabBar for SwiftUI projects.
 
 ## Installation
@@ -28,8 +30,6 @@ struct ContentView: View {
                 Text("Profile").tag(3)
                 Text("Chat").tag(4)
             }
-
-![TBZTabBar Preview]([https://raw.githubusercontent.com/ozentugberkcan/TBZTabBar/main/preview.png](https://raw.githubusercontent.com/ozentugberkcan/TBZTabBar/main/Ekran%20Resmi%202024-07-15%2020.44.09.png)
          
             TBZTabBar(selectedTab: $selectedTab)
         }
